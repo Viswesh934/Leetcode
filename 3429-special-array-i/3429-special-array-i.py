@@ -2,9 +2,8 @@ class Solution:
     def isArraySpecial(self, nums: List[int]) -> bool:
         t=True
         for i in range(1,len(nums)):
-            if nums[i-1]%2==0 and nums[i]%2==0:
+            if ((nums[i-1]&1)^(nums[i]&1))==0:
                 return False
-            if nums[i-1]%2!=0 and nums[i]%2!=0:
-                return False
+            
         return True
         
