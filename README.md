@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Viswesh934/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Viswesh934/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Graph
 |  |
 | ------- |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Viswesh934/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Hash Table
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Viswesh934/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## String
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Viswesh934/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
